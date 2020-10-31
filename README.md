@@ -19,16 +19,15 @@ __Hints:__
 2. The ultimate success metric for abc.com is Number of Purchases. Therefore, you should focus on Purchase metrics for statistical testing.
 3. Explain the concept of statistical testing for a non-technical audience.
 4. The customer journey for this campaign is:
-  - User sees an ad (Impression)
-  - User clicks on the website link on the ad (Website Click)
-  - User makes a search on the website (Search)
-  - User views details of a product (View Content)
-  - User adds the product to the cart (Add to Cart)
-  - User purchases the product (Purchase)
-  - Use visualizations to compare test and control group metrics, such as Website Click Through Rate, Cost per Action, and Conversion Rates in addition to Purchase numbers.
-
-If you see trends, anomalies or other patterns, discuss these in your presentation.
-You can make assumptions if needed.
+    - User sees an ad (Impression)
+    - User clicks on the website link on the ad (Website Click)
+    - User makes a search on the website (Search)
+    - User views details of a product (View Content)
+    - User adds the product to the cart (Add to Cart)
+    - User purchases the product (Purchase)
+5. Use visualizations to compare test and control group metrics, such as Website Click Through Rate, Cost per Action, and Conversion Rates in addition to Purchase numbers.
+6. If you see trends, anomalies or other patterns, discuss these in your presentation.
+7. You can make assumptions if needed.
 
 __Data Source:__
 
